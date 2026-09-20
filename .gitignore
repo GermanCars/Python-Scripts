@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local config (keep config.example.json as the template)
+yt_downloader.json
+.yt_downloader.json
+
+# Downloads
+downloads/
+.dltest/
+
+# OS
+.DS_Store
+Thumbs.db

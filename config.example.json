@@ -1,0 +1,13 @@
+{
+  "output_dir": "downloads",
+  "quality": "1080p",
+  "audio_format": "mp3",
+  "bitrate": "192K",
+  "proxy": null,
+  "cookies": null,
+  "cookies_from_browser": null,
+  "limit_rate": null,
+  "concurrent_fragments": 4,
+  "retries": 10,
+  "sponsorblock": []
+}
